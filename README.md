@@ -1,34 +1,29 @@
 # RoFont
 An open-source Windows app for customizing local Roblox fonts with automatic backups and restoration.
+
 # RoFont
 
-RoFont is a free, open-source Windows application that lets users customize the local fonts used by Roblox.
+Give Roblox a different look.
 
-## What RoFont does
-
-- Detects the Roblox installation
-- Lets users select a TTF or OTF font
-- Creates backups before changing files
-- Replaces supported Roblox font files
-- Restores the original fonts when requested
-- Checks the official RoFont endpoint for updates
-
-## What RoFont does not do
-
-- It does not request or store Roblox passwords
-- It does not access browser cookies
-- It does not inject code into Roblox
-- It does not modify Roblox accounts
-- It does not intentionally collect personal information
-
-RoFont is an unofficial project and is not affiliated with Roblox Corporation. Roblox updates may restore the original fonts.
-
-## Safety
-
-The source code is available in this repository for inspection. Release downloads include a VirusTotal scan and SHA-256 checksum.
+RoFont is a Windows project for customizing local Roblox fonts using your own TTF or OTF font files.
 
 ## Download
 
-Download RoFont only from the official website:
+Visit the [RoFont website](https://rofont.base44.app) for downloads and release information.
 
-https://rofont.base44.app
+## Before you use it
+
+RoFont changes files in your local Roblox installation. Font coverage can vary, and not every piece of in-game text will necessarily change.
+
+RoFont is unofficial and is not affiliated with Roblox Corporation.
+
+## Transparency
+
+This repository contains RoFont’s source code for inspection. Public source code does not, by itself, guarantee that a downloaded executable is safe or matches that code.
+
+Never disable your antivirus just to run RoFont.
+
+## Problems and feedback
+
+Found a problem? Open an issue with your RoFont version, what happened, and any error message. Remove personal information from screenshots before posting.
+
